@@ -37,3 +37,6 @@ The reply is a JsonObject :
 ## Dependencies
 
 - FlyingSaucer : http://flyingsaucerproject.github.io/
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/mod-pdf-generator
